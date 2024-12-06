@@ -9,7 +9,7 @@ import Tile from 'ol/Tile';
 const source = new GeoTIFF({
   sources: [
     {
-      url: 'https://github.com/BoukhdouLamyae/projet/raw/refs/heads/main/NOUVcog.cog',
+      url: 'https://cog-2024.s3.eu-north-1.amazonaws.com/cog/cog2_expl.tif',
     },
   ],
 });
