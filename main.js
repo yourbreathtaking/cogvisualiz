@@ -9,7 +9,7 @@ import Tile from 'ol/Tile';
 const source = new GeoTIFF({
   sources: [
     {
-      url: 'https://yourbreathtaking.github.io/thegeotiff/ookedoikewoifkok.tif',
+      url: 'https://github.com/BoukhdouLamyae/projet/raw/refs/heads/main/NOUVcog.cog',
     },
   ],
 });
